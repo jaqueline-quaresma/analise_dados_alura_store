@@ -11,6 +11,7 @@ Produtos Mais e Menos Vendidos em cada loja
 Frete Médio por Loja
 
 Estrutura do Projeto
+
 alura-store/
 │
 ├── dados/                         # Arquivos CSV com os dados de vendas
@@ -26,17 +27,24 @@ alura-store/
 
 └── README.md                      # Documentação do projeto
 
+
 Exemplos de Gráficos e Insights
+
 Faturamento por Loja
+
 Insight: As Lojas 1 e 4 teve o menor faturamento total no período analisado.
 
 Média de Avaliação por Loja
+
 Insight: A Loja 1 também apresentou menor media de avaliação.
 
 Frete Médio por Loja
+
 Insight: As Lojas 1 e 4 apresentaram menor media de fretes.
 
+
 Como Executar o Notebook
+
 1. Clone o repositório:
 
 git clone https://github.com/jaqueline-quaresma/analise_dados_alura_store
