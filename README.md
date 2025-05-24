@@ -51,6 +51,7 @@ Como Executar o Notebook
 1. Clone o repositório:
 
 git clone https://github.com/jaqueline-quaresma/analise_dados_alura_store
+
 cd analise_dados_alura-store
 
 2. Instale as dependências necessárias (opcional):
