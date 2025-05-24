@@ -69,7 +69,7 @@ cd analise_dados_alura-store
 
 jupyter notebook notebook/analise_dados_alura_store.ipynb
 
-Seguindo as instruções será possível, acompanhar toda análise feita para apoiar a decisão do seu João.
+Seguindo as instruções será possível, acompanhar a análise feita para apoiar a decisão do seu João.
 
    
 
