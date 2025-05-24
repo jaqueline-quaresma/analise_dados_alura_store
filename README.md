@@ -10,8 +10,6 @@ Faturamento total de cada loja
 
 Vendas por categoria
 
-Volume de vendas 
-
 Média de Avaliação por Loja
 
 Produtos Mais e Menos Vendidos em cada loja
