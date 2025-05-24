@@ -14,13 +14,16 @@ Estrutura do Projeto
 
 alura-store/
 │
-├── dados/                         # Arquivos CSV com os dados de vendas
+├── dados/  
+                                   # Arquivos CSV com os dados de vendas
 │   └── vendas_lojas.csv
 │
 ├── notebook/                      # Notebook com a análise
+
 │   └── analise_dados_alura_store.ipynb
 │
 ├── imagens/                       # Gráficos gerados na análise
+
 │   ├── faturamento_por_loja.png
 │   └── media_avaliacao_por_loja.png
 │   └── frete_medio_por_loja.png
