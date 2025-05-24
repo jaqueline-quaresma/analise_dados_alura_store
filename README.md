@@ -1,14 +1,23 @@
 Analise de dados da rede de lojas Alura Store
+
 Este projeto tem como objetivo ajudar o Sr. João, dono da rede de lojas Alura Store, a decidir qual das suas quatro lojas vender, com base no desempenho de vendas.
 
 Propósito da Análise
+
 Sr. João pretende vender uma das lojas para investir em um novo negócio. Para analisar os dados de vendas e identificar qual loja apresenta o menor desempenho em comparação com as demais, foram utilizados métricas como:
+
 Faturamento total de cada loja
+
 Vendas por categoria
+
 Volume de vendas 
+
 Média de Avaliação por Loja
+
 Produtos Mais e Menos Vendidos em cada loja
+
 Frete Médio por Loja
+
 
 Estrutura do Projeto
 
